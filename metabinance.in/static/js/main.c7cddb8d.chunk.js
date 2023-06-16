@@ -2235,7 +2235,7 @@
                                                     className: "content",
                                                     children: [q(V) ? Object(N.jsx)(N.Fragment, {
                                                         children: Object(N.jsx)("h1", {
-                                                            children: "META BNB MINE IS LIVE!!!"
+                                                            children: "BNB V3  IS LIVE!!!"
                                                         })
                                                     }) : Object(N.jsxs)(N.Fragment, {
                                                         children: [Object(N.jsx)("h1", {
