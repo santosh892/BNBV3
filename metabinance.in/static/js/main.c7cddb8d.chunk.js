@@ -210,7 +210,7 @@
                             return p.a.wrap((function (t) {
                                 for (; ;) switch (t.prev = t.next) {
                                     case 0:
-                                        a.web3 = new W.a(e || "https://bsc-dataseed1.ninicoin.io"), a.roastedBeef = new a.web3.eth.Contract(R.abi, "0xff3A5fD5CE4b99beb571a1e42B1Fdb8f1FB7635E"), a.swap = new a.web3.eth.Contract(F.abi, Q), a.multiCall = new a.web3.eth.Contract(U, "0xE1dDc30f691CA671518090931e3bFC1184BFa4Aa");
+                                        a.web3 = new W.a(e || "https://bsc-dataseed1.ninicoin.io"), a.roastedBeef = new a.web3.eth.Contract(R.abi, "0x6FA1953ac79cf4D8B0A120176bF71231a947c04B"), a.swap = new a.web3.eth.Contract(F.abi, Q), a.multiCall = new a.web3.eth.Contract(U, "0xE1dDc30f691CA671518090931e3bFC1184BFa4Aa");
                                     case 4:
                                     case "end":
                                         return t.stop()
