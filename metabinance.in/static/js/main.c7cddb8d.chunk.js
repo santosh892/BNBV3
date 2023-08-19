@@ -2103,7 +2103,7 @@
                             }), Object(N.jsxs)("div", {
                                 className: "socialMedias",
                                 children: [Object(N.jsx)("a", {
-                                    href: "https://www.bscscan.com/address/0xce93F9827813761665CE348e33768Cb1875a9704",
+                                    href: "https://www.bscscan.com/address/0x6FA1953ac79cf4D8B0A120176bF71231a947c04B",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     children: Object(N.jsx)("img", {
